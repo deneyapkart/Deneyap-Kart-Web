@@ -39,4 +39,4 @@ then
 python main.py
 ```
 
-Thanks @kinkintama
+Thanks @kinkintama and @DogushC
